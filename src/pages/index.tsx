@@ -1,7 +1,7 @@
-import Botao from "../components/Botao"
 import Layout from "../components/Layout"
 import Tabela from "../components/Tabela"
 import Cliente from "../core/Cliente"
+import Botao from "../components/Botao"
 
 
 export default function Home() {
